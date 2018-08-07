@@ -8,7 +8,7 @@
 
 ### Stable release versions
 
-The ontologies hosted here are not released to any PURLs.
+The ontologies hosted here are not released to any PURLs..
 
 ### Working version:
 
